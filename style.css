@@ -1,9 +1,13 @@
 body{
-    background-color:#A6F6FF;
+    background-color:#E6FFFD;
 }
 hr{
     border-style:none;
     border-top: 6px dotted #ffffff;
     height: 1px;
     width: 5%;
+}
+h1,h3{
+   color: #ACBCFF;
+   font-style:inherit;
 }
